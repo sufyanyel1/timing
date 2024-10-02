@@ -1,0 +1,14 @@
+{
+  "name": "time_calculate",
+  "version": "1.0.0",
+  "description": "To calculate hours and out time",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo"
+  },
+  "author": "sufyan",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.0"
+  }
+}
